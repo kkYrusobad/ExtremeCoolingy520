@@ -1,5 +1,8 @@
 # ExtremeCooling4Linux
 
+## **this project is addition to the existing project by https://gitlab.com/OdinTdh with https://gitlab.com/OdinTdh/extremecooling4linux**
+## TODO : port correctly to arch(or arch based systems, current build suffers from many irregularities); remove gtk deps(qt?); include fan control.
+
 ExtremeCooling4Linux is a Gtk3 program to enable the extreme cooling fan mode on Linux.
 
 Extreme cooling is a special fan mode supported in Lenovo Legion laptops. This mode can
