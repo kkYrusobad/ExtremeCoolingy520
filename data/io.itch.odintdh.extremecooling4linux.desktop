@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=ExtremeCooling4Linux
+Exec=ec4Linux %u
+Icon=extremecooling4linux
+Comment=a Gtk3 program to enable extreme cooling for Lenovo laptops
+Categories=Utility;
